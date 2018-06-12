@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AACA,2BAA8B",
+"sources": ["../../sass/main-fix/browser_fix.scss"],
+"names": [],
+"file": "browser_fix.css"
+}
